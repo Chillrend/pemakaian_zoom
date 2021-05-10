@@ -1,0 +1,5 @@
+.idea/
+.vscode/
+.node-persist/
+node_modules/
+.env
